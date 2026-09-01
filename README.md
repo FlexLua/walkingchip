@@ -6,19 +6,7 @@
   <img src="pic/IMG_2686.webp" alt="WalkingChip" width="480">
 </p>
 
-本项目基于 **FlexLua CPU-302** AI 自编程控制单元，无需手写代码即可让 302 实现所需功能。3D 打印文件开源，并针对拓竹（Bambu Lab）3D 打印机做了优化。
-
-官网：[https://flexlua.com](https://flexlua.com)
-
----
-
-## 效果演示
-
-https://github.com/FlexLua/walkingchip/raw/main/demo.mp4
-
-![WalkingChip Demo](demo.mp4)
-
-> 若上方视频无法直接播放，可点击 [demo.mp4](demo.mp4) 下载或本地观看。
+本作品使用了 FlexLua 的 CPU-302 AI 自编程控制单元，因此不需要编程即可让 302 实现想要的功能。3D 打印文件已开源，可用拓竹 3D 打印机打印。更多关于 FlexLua 介绍可访问 [flexlua.com](https://flexlua.com)。
 
 ---
 
@@ -144,6 +132,5 @@ DS9激光测距L0-L7这八个测距传感器每两个一组，顺时针均匀分
 
 ## 联系与合作
 
-- 官网：https://flexlua.com
 - 微信：stdlib-h
 - Email：shineblink666@gmail.com

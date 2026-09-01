@@ -6,19 +6,7 @@
   <img src="pic/IMG_2686.webp" alt="WalkingChip" width="480">
 </p>
 
-This project is powered by the **FlexLua CPU-302** AI auto-programming control unit, enabling the 302 to perform desired functions without manual coding. The 3D printing files are open-source and optimized for Bambu Lab 3D printers.
-
-Website: [https://flexlua.com](https://flexlua.com)
-
----
-
-## Demo
-
-https://github.com/FlexLua/walkingchip/raw/main/demo.mp4
-
-![WalkingChip Demo](demo.mp4)
-
-> If the video above does not play, click [demo.mp4](demo.mp4) to download or watch locally.
+This project uses FlexLua's CPU-302 AI auto-programming control unit, so you can make the 302 do what you want without coding. The 3D printing files are open-source and can be printed with a Bambu Lab 3D printer. Learn more about FlexLua at [flexlua.com](https://flexlua.com).
 
 ---
 
@@ -144,6 +132,5 @@ I want the sensors in the four directions to light more LEDs as the detected dis
 
 ## Contact & Cooperation
 
-- Website: https://flexlua.com
 - WeChat: stdlib-h
 - Email: shineblink666@gmail.com
