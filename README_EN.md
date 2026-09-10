@@ -130,7 +130,7 @@ I want the sensors in the four directions to light more LEDs as the detected dis
 
 ---
 
-## Contact & Cooperation
+## Technical Exchange
 
 - WeChat: stdlib-h
 - Email: shineblink666@gmail.com

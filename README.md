@@ -130,7 +130,7 @@ DS9激光测距L0-L7这八个测距传感器每两个一组，顺时针均匀分
 
 ---
 
-## 联系与合作
+## 技术交流联系
 
 - 微信：stdlib-h
 - Email：shineblink666@gmail.com
